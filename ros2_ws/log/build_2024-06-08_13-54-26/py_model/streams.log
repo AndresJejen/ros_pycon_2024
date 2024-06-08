@@ -1,0 +1,38 @@
+[0.228s] Invoking command in '/root/ros/demo_code/ros2_ws/src/py_model': PYTHONPATH=/root/ros/demo_code/ros2_ws/build/py_model/prefix_override:/root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_model build --build-base /root/ros/demo_code/ros2_ws/build/py_model/build install --record /root/ros/demo_code/ros2_ws/build/py_model/install.log --single-version-externally-managed install_data
+[0.311s] running egg_info
+[0.312s] creating ../../build/py_model/py_model.egg-info
+[0.312s] writing ../../build/py_model/py_model.egg-info/PKG-INFO
+[0.312s] writing dependency_links to ../../build/py_model/py_model.egg-info/dependency_links.txt
+[0.312s] writing entry points to ../../build/py_model/py_model.egg-info/entry_points.txt
+[0.312s] writing requirements to ../../build/py_model/py_model.egg-info/requires.txt
+[0.312s] writing top-level names to ../../build/py_model/py_model.egg-info/top_level.txt
+[0.313s] writing manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+[0.313s] reading manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+[0.313s] adding license file 'LICENSE'
+[0.314s] writing manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+[0.314s] running build
+[0.314s] running build_py
+[0.314s] creating /root/ros/demo_code/ros2_ws/build/py_model/build
+[0.314s] creating /root/ros/demo_code/ros2_ws/build/py_model/build/lib
+[0.314s] creating /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model
+[0.314s] copying py_model/__init__.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model
+[0.314s] copying py_model/publisher_sensors.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model
+[0.314s] running install
+[0.314s] running install_lib
+[0.315s] creating /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model
+[0.315s] copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/__init__.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model
+[0.315s] copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/publisher_sensors.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model
+[0.315s] byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/__init__.py to __init__.cpython-310.pyc
+[0.315s] byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/publisher_sensors.py to publisher_sensors.cpython-310.pyc
+[0.316s] running install_data
+[0.316s] creating /root/ros/demo_code/ros2_ws/install/py_model/share/ament_index
+[0.316s] creating /root/ros/demo_code/ros2_ws/install/py_model/share/ament_index/resource_index
+[0.316s] creating /root/ros/demo_code/ros2_ws/install/py_model/share/ament_index/resource_index/packages
+[0.316s] copying resource/py_model -> /root/ros/demo_code/ros2_ws/install/py_model/share/ament_index/resource_index/packages
+[0.316s] copying package.xml -> /root/ros/demo_code/ros2_ws/install/py_model/share/py_model
+[0.317s] running install_egg_info
+[0.317s] Copying ../../build/py_model/py_model.egg-info to /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model-0.0.0-py3.10.egg-info
+[0.318s] running install_scripts
+[0.327s] Installing sensores script to /root/ros/demo_code/ros2_ws/install/py_model/lib/py_model
+[0.327s] writing list of installed files to '/root/ros/demo_code/ros2_ws/build/py_model/install.log'
+[0.340s] Invoked command in '/root/ros/demo_code/ros2_ws/src/py_model' returned '0': PYTHONPATH=/root/ros/demo_code/ros2_ws/build/py_model/prefix_override:/root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_model build --build-base /root/ros/demo_code/ros2_ws/build/py_model/build install --record /root/ros/demo_code/ros2_ws/build/py_model/install.log --single-version-externally-managed install_data

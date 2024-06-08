@@ -1,0 +1,23 @@
+running egg_info
+writing ../../build/py_model/py_model.egg-info/PKG-INFO
+writing dependency_links to ../../build/py_model/py_model.egg-info/dependency_links.txt
+writing entry points to ../../build/py_model/py_model.egg-info/entry_points.txt
+writing requirements to ../../build/py_model/py_model.egg-info/requires.txt
+writing top-level names to ../../build/py_model/py_model.egg-info/top_level.txt
+reading manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+running build
+running build_py
+copying py_model/publisher_sensors.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model
+running install
+running install_lib
+copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/publisher_sensors.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model
+byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/publisher_sensors.py to publisher_sensors.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/py_model/py_model.egg-info to /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model-0.0.0-py3.10.egg-info
+running install_scripts
+Installing sensores script to /root/ros/demo_code/ros2_ws/install/py_model/lib/py_model
+writing list of installed files to '/root/ros/demo_code/ros2_ws/build/py_model/install.log'

@@ -1,0 +1,35 @@
+running egg_info
+writing ../../build/py_model/py_model.egg-info/PKG-INFO
+writing dependency_links to ../../build/py_model/py_model.egg-info/dependency_links.txt
+writing entry points to ../../build/py_model/py_model.egg-info/entry_points.txt
+writing requirements to ../../build/py_model/py_model.egg-info/requires.txt
+writing top-level names to ../../build/py_model/py_model.egg-info/top_level.txt
+reading manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+running build
+running build_py
+copying py_model/predictor.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model
+creating /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/model_pt
+copying py_model/model_pt/__init__.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/model_pt
+copying py_model/model_pt/train.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/model_pt
+copying py_model/model_pt/predict.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/model_pt
+running install
+running install_lib
+copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/predictor.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model
+creating /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/model_pt
+copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/model_pt/__init__.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/model_pt
+copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/model_pt/train.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/model_pt
+copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/model_pt/predict.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/model_pt
+byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/predictor.py to predictor.cpython-310.pyc
+byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/model_pt/__init__.py to __init__.cpython-310.pyc
+byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/model_pt/train.py to train.cpython-310.pyc
+byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/model_pt/predict.py to predict.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/py_model/py_model.egg-info to /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model-0.0.0-py3.10.egg-info
+running install_scripts
+Installing prediction script to /root/ros/demo_code/ros2_ws/install/py_model/lib/py_model
+Installing sensores script to /root/ros/demo_code/ros2_ws/install/py_model/lib/py_model
+writing list of installed files to '/root/ros/demo_code/ros2_ws/build/py_model/install.log'

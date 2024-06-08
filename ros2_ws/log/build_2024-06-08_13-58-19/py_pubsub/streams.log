@@ -1,0 +1,42 @@
+[0.444s] Invoking command in '/root/ros/demo_code/ros2_ws/src/py_pubsub': PYTHONPATH=/root/ros/demo_code/ros2_ws/build/py_pubsub/prefix_override:/root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /root/ros/demo_code/ros2_ws/build/py_pubsub/build install --record /root/ros/demo_code/ros2_ws/build/py_pubsub/install.log --single-version-externally-managed install_data
+[0.545s] running egg_info
+[0.546s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[0.547s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.547s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.547s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.547s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.547s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.547s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.548s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.548s] adding license file 'LICENSE'
+[0.550s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.550s] running build
+[0.550s] running build_py
+[0.550s] creating /root/ros/demo_code/ros2_ws/build/py_pubsub/build
+[0.551s] creating /root/ros/demo_code/ros2_ws/build/py_pubsub/build/lib
+[0.551s] creating /root/ros/demo_code/ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[0.551s] copying py_pubsub/__init__.py -> /root/ros/demo_code/ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[0.551s] copying py_pubsub/publisher.py -> /root/ros/demo_code/ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[0.551s] copying py_pubsub/subscriber.py -> /root/ros/demo_code/ros2_ws/build/py_pubsub/build/lib/py_pubsub
+[0.551s] running install
+[0.551s] running install_lib
+[0.551s] creating /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.551s] copying /root/ros/demo_code/ros2_ws/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.551s] copying /root/ros/demo_code/ros2_ws/build/py_pubsub/build/lib/py_pubsub/publisher.py -> /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.551s] copying /root/ros/demo_code/ros2_ws/build/py_pubsub/build/lib/py_pubsub/subscriber.py -> /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.551s] byte-compiling /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/__init__.py to __init__.cpython-310.pyc
+[0.552s] byte-compiling /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/publisher.py to publisher.cpython-310.pyc
+[0.552s] byte-compiling /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/subscriber.py to subscriber.cpython-310.pyc
+[0.552s] running install_data
+[0.552s] creating /root/ros/demo_code/ros2_ws/install/py_pubsub/share/ament_index
+[0.552s] creating /root/ros/demo_code/ros2_ws/install/py_pubsub/share/ament_index/resource_index
+[0.552s] creating /root/ros/demo_code/ros2_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[0.552s] copying resource/py_pubsub -> /root/ros/demo_code/ros2_ws/install/py_pubsub/share/ament_index/resource_index/packages
+[0.552s] copying package.xml -> /root/ros/demo_code/ros2_ws/install/py_pubsub/share/py_pubsub
+[0.552s] running install_egg_info
+[0.552s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[0.553s] running install_scripts
+[0.563s] Installing listener script to /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/py_pubsub
+[0.563s] Installing talker script to /root/ros/demo_code/ros2_ws/install/py_pubsub/lib/py_pubsub
+[0.563s] writing list of installed files to '/root/ros/demo_code/ros2_ws/build/py_pubsub/install.log'
+[0.588s] Invoked command in '/root/ros/demo_code/ros2_ws/src/py_pubsub' returned '0': PYTHONPATH=/root/ros/demo_code/ros2_ws/build/py_pubsub/prefix_override:/root/ros/demo_code/ros2_ws/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /root/ros/demo_code/ros2_ws/build/py_pubsub/build install --record /root/ros/demo_code/ros2_ws/build/py_pubsub/install.log --single-version-externally-managed install_data

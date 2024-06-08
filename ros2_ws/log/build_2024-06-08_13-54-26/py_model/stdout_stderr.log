@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/py_model/py_model.egg-info
+writing ../../build/py_model/py_model.egg-info/PKG-INFO
+writing dependency_links to ../../build/py_model/py_model.egg-info/dependency_links.txt
+writing entry points to ../../build/py_model/py_model.egg-info/entry_points.txt
+writing requirements to ../../build/py_model/py_model.egg-info/requires.txt
+writing top-level names to ../../build/py_model/py_model.egg-info/top_level.txt
+writing manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+reading manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /root/ros/demo_code/ros2_ws/build/py_model/build
+creating /root/ros/demo_code/ros2_ws/build/py_model/build/lib
+creating /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model
+copying py_model/__init__.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model
+copying py_model/publisher_sensors.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model
+running install
+running install_lib
+creating /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model
+copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/__init__.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model
+copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/publisher_sensors.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model
+byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/__init__.py to __init__.cpython-310.pyc
+byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/publisher_sensors.py to publisher_sensors.cpython-310.pyc
+running install_data
+creating /root/ros/demo_code/ros2_ws/install/py_model/share/ament_index
+creating /root/ros/demo_code/ros2_ws/install/py_model/share/ament_index/resource_index
+creating /root/ros/demo_code/ros2_ws/install/py_model/share/ament_index/resource_index/packages
+copying resource/py_model -> /root/ros/demo_code/ros2_ws/install/py_model/share/ament_index/resource_index/packages
+copying package.xml -> /root/ros/demo_code/ros2_ws/install/py_model/share/py_model
+running install_egg_info
+Copying ../../build/py_model/py_model.egg-info to /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model-0.0.0-py3.10.egg-info
+running install_scripts
+Installing sensores script to /root/ros/demo_code/ros2_ws/install/py_model/lib/py_model
+writing list of installed files to '/root/ros/demo_code/ros2_ws/build/py_model/install.log'

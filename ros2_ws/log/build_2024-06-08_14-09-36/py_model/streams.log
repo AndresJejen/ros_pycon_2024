@@ -1,0 +1,26 @@
+[0.301s] Invoking command in '/root/ros/demo_code/ros2_ws/src/py_model': PYTHONPATH=/root/ros/demo_code/ros2_ws/build/py_model/prefix_override:/root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_model build --build-base /root/ros/demo_code/ros2_ws/build/py_model/build install --record /root/ros/demo_code/ros2_ws/build/py_model/install.log --single-version-externally-managed install_data
+[0.395s] running egg_info
+[0.395s] writing ../../build/py_model/py_model.egg-info/PKG-INFO
+[0.395s] writing dependency_links to ../../build/py_model/py_model.egg-info/dependency_links.txt
+[0.395s] writing entry points to ../../build/py_model/py_model.egg-info/entry_points.txt
+[0.395s] writing requirements to ../../build/py_model/py_model.egg-info/requires.txt
+[0.395s] writing top-level names to ../../build/py_model/py_model.egg-info/top_level.txt
+[0.396s] reading manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+[0.396s] adding license file 'LICENSE'
+[0.397s] writing manifest file '../../build/py_model/py_model.egg-info/SOURCES.txt'
+[0.397s] running build
+[0.397s] running build_py
+[0.397s] copying py_model/model_pt/predict.py -> /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/model_pt
+[0.397s] running install
+[0.397s] running install_lib
+[0.398s] copying /root/ros/demo_code/ros2_ws/build/py_model/build/lib/py_model/model_pt/predict.py -> /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/model_pt
+[0.398s] byte-compiling /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model/model_pt/predict.py to predict.cpython-310.pyc
+[0.399s] running install_data
+[0.399s] running install_egg_info
+[0.399s] removing '/root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model-0.0.0-py3.10.egg-info' (and everything under it)
+[0.400s] Copying ../../build/py_model/py_model.egg-info to /root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages/py_model-0.0.0-py3.10.egg-info
+[0.400s] running install_scripts
+[0.411s] Installing prediction script to /root/ros/demo_code/ros2_ws/install/py_model/lib/py_model
+[0.411s] Installing sensores script to /root/ros/demo_code/ros2_ws/install/py_model/lib/py_model
+[0.411s] writing list of installed files to '/root/ros/demo_code/ros2_ws/build/py_model/install.log'
+[0.424s] Invoked command in '/root/ros/demo_code/ros2_ws/src/py_model' returned '0': PYTHONPATH=/root/ros/demo_code/ros2_ws/build/py_model/prefix_override:/root/ros/demo_code/ros2_ws/install/py_model/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_model build --build-base /root/ros/demo_code/ros2_ws/build/py_model/build install --record /root/ros/demo_code/ros2_ws/build/py_model/install.log --single-version-externally-managed install_data

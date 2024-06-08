@@ -1,0 +1,4 @@
+[console_scripts]
+prediction = py_model.predictor:main
+sensores = py_model.publisher_sensors:main
+
