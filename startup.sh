@@ -16,5 +16,9 @@ sudo apt install ros-humble-ros-base
 sudo apt install ros-dev-tools
 
 source /opt/ros/humble/setup.bash
+ros2 run demo_nodes_cpp talker
+
+source /opt/ros/humble/setup.bash
+ros2 run demo_nodes_py listener
 
 
